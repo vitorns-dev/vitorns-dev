@@ -33,7 +33,7 @@ Atualmente construindo uma base sólida em algoritmos e engenharia de software.
 ## 🌐 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vitor-nascimento-dos-santos-03b0a1417?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>
 </p>
