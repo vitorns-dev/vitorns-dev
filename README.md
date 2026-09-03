@@ -37,4 +37,3 @@ Atualmente construindo uma base sólida em algoritmos e engenharia de software.
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>
 </p>
-
