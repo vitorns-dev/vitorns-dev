@@ -10,7 +10,7 @@ Atualmente construindo uma base sólida em algoritmos e engenharia de software.
 
 ### 🚀 Linguagens de Programação
 * 💻 **C#** (.NET, Lógica e POO)
-* ⚙️ **C++** (Estrutura de Dados e Performance)
+* ⚙️ **C** 
 * 🌐 **JavaScript** (Desenvolvimento Web e Frontend)
 
 ### 📚 Conhecimento Estrutural (Uninove)
