@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" width="100%" />
+</p>
+
 # Hi, I'm Vitor Nascimento 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=450&lines=Software+Developer+in+Training;C%23+%7C+.NET+8+%7C+Front-End;Quality+Assurance+%26+Tech+Support)](https://git.io/typing-svg)
@@ -52,6 +56,18 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor F
 
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINOVE *(Cursando o 2.º semestre)*
 * **Desenvolvimento Front-End** | Instituto PROA
+
+---
+
+## 🔥 Activity & Commit Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorns-dev&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.herokuapp.com/s/vitorns-dev" alt="3D Contribution Graph" />
+</p>
 
 ---
 
