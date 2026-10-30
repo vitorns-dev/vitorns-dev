@@ -2,11 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=450&lines=Software+Developer+in+Training;C%23+%7C+.NET+8+%7C+Front-End;Quality+Assurance+%26+Tech+Support)](https://git.io/typing-svg)
 
-Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE. Focado em desenvolvimento de software, automação de lógica e suporte técnico.
+<p align="center">
+  <a href="https://github.com/vitorns-dev?tab=followers">
+    <img src="https://img.shields.io/badge/Seguidores-vitorns--dev-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/vitorns-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-Projetos-239120?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+</p>
+
+Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor Front-End pelo Instituto PROA. Focado em desenvolvimento de software, automação de lógica e suporte técnico.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Linguagens e Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -25,9 +34,17 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE. Focado em desenv
 
 ## 🚀 Featured Project
 
-* **Projeto Front-End (PROA)**: Site prático desenvolvido com HTML5, CSS3 e JavaScript. Focado na estruturação visual de interfaces, organização estrutural e lógica em evolução contínua.
-  * 🌐 **[Ver Site Online](https://vitorns-dev.github.io/primeiraaulacurso/)**
-  * 💻 **[Ver Código-Fonte](https://github.com/vitorns-dev/primeiraaulacurso)**
+### 🌐 Projeto Front-End (PROA)
+> Site prático desenvolvido em HTML5, CSS3 e JavaScript. Focado em estruturação de interfaces, design responsivo e boas práticas de código em constante evolução.
+
+<p align="center">
+  <a href="https://vitorns-dev.github.io/primeiraaulacurso/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Ver%20Site-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/vitorns-dev/primeiraaulacurso" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Código--Fonte-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -41,11 +58,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE. Focado em desenv
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/output/github-contribution-grid-snake-dark.svg?v=2">
 </p>
 
 ---
