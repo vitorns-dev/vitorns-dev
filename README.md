@@ -29,18 +29,22 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE. Focado em desenv
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorns-dev&show_icons=true&theme=radial)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorns-dev&layout=compact&theme=radial)
-
----
-
 ## 🎓 Education
 
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINOVE *(Cursando o 2.º semestre)*
 * **Desenvolvimento Front-End** | Instituto PROA
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
