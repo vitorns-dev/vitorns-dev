@@ -45,9 +45,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor F
   <a href="https://vitorns-dev.github.io/primeiraaulacurso/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Ver%20Site-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/vitorns-dev/primeiraaulacurso" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Código--Fonte-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/vitorns-dev/vitorns-dev/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
