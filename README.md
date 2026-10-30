@@ -25,7 +25,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE. Focado em desenv
 
 ## 🚀 Featured Project
 
-* **[RpgCombatSimulator](https://github.com/vitorns-dev/RpgCombatSimulator)**: Aplicação em console/terminal desenvolvida em C# e .NET 8, focada em lógica estruturada, controle de fluxo e manipulação de dados.
+* **Projeto Front-End (PROA)**: Site prático desenvolvido com HTML5, CSS3 e JavaScript. Focado na estruturação visual de interfaces, organização estrutural e lógica em evolução contínua.
+  * 🌐 **[Ver Site Online](https://vitorns-dev.github.io/primeiraaulacurso/)**
+  * 💻 **[Ver Código-Fonte](https://github.com/vitorns-dev/primeiraaulacurso)**
 
 ---
 
