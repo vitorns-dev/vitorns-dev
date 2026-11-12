@@ -22,12 +22,17 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor F
   <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2&section=header" width="100%" />
 </p>
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Linguagens, Tecnologias & Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,py,js,html,css,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,py,js,react,html,css,git,github,vscode&theme=dark" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
 </p>
 
 <p align="center">
@@ -38,7 +43,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor F
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23%20%26%20.NET%208-Foco%20Principal-A855F7?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Front--End-HTML5%20%7C%20CSS3%20%7C%20JS-36BCF7?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Front--End-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20React-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/L%C3%B3gica%20%26%20Algoritmos-Estrutura%20de%20Dados-239120?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
@@ -47,6 +52,15 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor F
 </p>
 
 ## 🚀 Featured Projects
+
+### 💼 Portfólio Oficial
+> Meu portfólio pessoal desenvolvido a partir da base dos projetos de Front-End em aula, evoluído com foco em design moderno, responsividade e apresentação dos meus projetos e habilidades.
+
+<p align="center">
+  <a href="https://vitorns-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-Acessar%20Portf%C3%B3lio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ### 🌐 Projeto Front-End (PROA)
 > Site prático desenvolvido em HTML5, CSS3 e JavaScript. Focado em estruturação de interfaces, design responsivo e boas práticas de código em constante evolução.
@@ -58,6 +72,19 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor F
   <a href="https://github.com/vitorns-dev/primeiraaulacurso" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-C%C3%B3digo--Fonte-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+### ⚔️ RPG Combat Simulator (C# / .NET 8)
+> Aplicação em consola desenvolvida em C# focada em Orientação a Objetos, simulação de lógica de combate, estrutura de dados e regras de negócio estruturadas.
+
+<p align="center">
+  <a href="https://github.com/vitorns-dev/RpgCombatSimulator" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Ver%20Reposit%C3%B3rio-512BD4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2&section=header" width="100%" />
 </p>
 
 ## 🎓 Education & Bootcamps
@@ -97,6 +124,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e Desenvolvedor F
 ## 📫 Connect with Me
 
 <p align="center">
+  <a href="https://vitorns-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/vitor-nascimento-dos-santos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
